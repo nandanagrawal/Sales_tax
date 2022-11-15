@@ -1,3 +1,21 @@
-                                        SALE TAX PROBLEM
+SALE TAXES
 
-I HAVE IMPLEMENTED A CODE WHICH CALCULATE THE SALE TAX ON THE PRODUCT.TAX IS APPLICABLE ON THE PRODUCT EXCEPT BOOK,MEDICINE AND FOOD ITEMS @10 %.ADDING TO THAT,IF ITEMS ARE IMPORTED THEN THE SALE TAXS WILL BE 5% IN ALL ITEMS INCLUDING BOOK,MEDICINE AND FOOD.I HAVE ALSO ROUND OFF THE DECIMAL NUMBER PLACED ON 2ND PLACE AND CALCULATED THE TOTAL AMOUNT OF THE BILL. 
+SALE TAXES IS CONSOLE APPLICATION WHICH THE TAXES ON THE PRODUCT ITEM AND GIVE TOTAL AMOUNT WITH SALE TAXES.
+Features
+
+    It is very easy to use and efficient.
+    Just pass string to the receipt function and call it.
+
+Tech
+
+Sale Tax uses a number of open source projects to work properly:
+
+    [ RUBY ] - Good language for implementing the code
+
+And of course Sale taxes itself is open source with a [public repository][sale tax problem] on GitHub.
+Installation
+
+Sale Tax requires rvm to run in Terminal.
+License
+
+Vaibhav Gupta
